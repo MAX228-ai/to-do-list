@@ -1,0 +1,18 @@
+
+body {
+  background: #f8f9fa;
+  min-height: 100vh;
+}
+
+.card-title {
+  margin-bottom: 0.75rem;
+}
+
+.list-group-item > .btn-group {
+  margin-left: 12px;
+}
+
+.list-group-item .badge {
+  min-width: 72px;
+  text-align: center;
+}
